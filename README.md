@@ -4,9 +4,9 @@
   <i>A Systems Engineering Student & Full Stack Developer dedicated to building secure, scalable, and high-performance software.</i>
 </p>
 
-[cite_start]My technical path is built on a solid foundation of software engineering principles and a proactive approach to modern development. [cite_start]I specialize in the **Full Stack** ecosystem, crafting intuitive user interfaces with **React** and developing robust, efficient backends using **Java (Spring Boot)**, **Node.js**, and **FastAPI**[cite: 8, 20, 29].
+My technical path is built on a solid foundation of software engineering principles and a proactive approach to modern development. [cite_start]I specialize in the **Full Stack** ecosystem, crafting intuitive user interfaces with **React** and developing robust, efficient backends using **Java (Spring Boot)**, **Node.js**, and **FastAPI**[cite: 8, 20, 29].
 
-[cite_start]Currently, my focus is on integrating **DevSecOps** practices into the development lifecycle[cite: 30]. [cite_start]I am passionate about ensuring software integrity through **secure coding** and **CI/CD** pipelines, supported by my **Cybersecurity** certifications from Cisco Networking Academy[cite: 9, 21, 26].
+Currently, my focus is on integrating **DevSecOps** practices into the development lifecycle[cite: 30]. [cite_start]I am passionate about ensuring software integrity through **secure coding** and **CI/CD** pipelines, supported by my **Cybersecurity** certifications from Cisco Networking Academy[cite: 9, 21, 26].
 
 **Let's Connect! 📬**
 
