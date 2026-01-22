@@ -1,20 +1,15 @@
-# Hi there 👋
+<h1 align="center">Hi there! I'm Camilo Arias</h1>
 
-I am **Camilo Andrés Arias Tenjo**, a passionate Systems Engineering student at UPTC in Colombia.
+<p align="center">
+  <i>A Systems Engineering Student & Full Stack Developer dedicated to building secure, scalable, and high-performance software.</i>
+</p>
 
-## About Me
+[cite_start]My technical path is built on a solid foundation of software engineering principles and a proactive approach to modern development. [cite_start]I specialize in the **Full Stack** ecosystem, crafting intuitive user interfaces with **React** and developing robust, efficient backends using **Java (Spring Boot)**, **Node.js**, and **FastAPI**[cite: 8, 20, 29].
 
-- 🌱 I am currently deepening my knowledge in IT technologies and software development.
-- 🔭 I am interested in exploring and collaborating on projects that involve technological innovation and smart solutions.
-- 🤔 I am always on the lookout for new challenges and opportunities to learn and grow professionally.
+[cite_start]Currently, my focus is on integrating **DevSecOps** practices into the development lifecycle[cite: 30]. [cite_start]I am passionate about ensuring software integrity through **secure coding** and **CI/CD** pipelines, supported by my **Cybersecurity** certifications from Cisco Networking Academy[cite: 9, 21, 26].
 
-## Projects and Collaborations
+**Let's Connect! 📬**
 
-- I enjoy working on projects that blend theory with practice, optimizing processes and creating real impact.
-- I am open to collaborations in web development, mobile applications, and information systems.
-
-## Fun Fact
-
-- I love learning new things and every day I strive to turn my ideas into effective technological solutions.
-
-Thank you for visiting my profile!
+<p align="left">
+<a href="https://www.linkedin.com/in/camilo-andres-arias-tenjo-34762836b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Camilo Arias" height="30" width="40" /></a>
+</p>
