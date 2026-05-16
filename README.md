@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Camilo AT</h1>
+<h1 align="center">Hi there! I'm Camilo AT</h1>
 
 <p align="center">
   <i>A Systems Engineering Student & Full Stack Developer dedicated to building secure, scalable, and high-performance software.</i>
@@ -32,6 +32,10 @@ At the same time, I am expanding my skill set by exploring **Machine Learning** 
 ### 🛠️ Tech Stack & Tools
 
 Here is a summary of the technologies I work with, categorized by area:
+
+(\_/)
+( •_•)
+/ >💻
 
 #### **Frontend**
 <p align="left">
