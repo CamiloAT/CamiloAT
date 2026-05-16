@@ -33,10 +33,6 @@ At the same time, I am expanding my skill set by exploring **Machine Learning** 
 
 Here is a summary of the technologies I work with, categorized by area:
 
-<p>(\_/)</p>
-<p>( •_•)</p>
-<p>/ >💻</p>
-
 #### **Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
