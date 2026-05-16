@@ -21,7 +21,7 @@
                                                                                          
 ```
 
-### 👨‍💻 About Me
+### About Me
 
 My technical path is built on a solid foundation of software engineering. Currently, my true passion lies in **Web Application Development** because I deeply enjoy the design aspect and creating intuitive user experiences. I bring these designs to life using **React** on the frontend, supported by robust and efficient backends built with **Java (Spring Boot)**, **Node.js**, and **FastAPI**.
 
@@ -29,7 +29,7 @@ At the same time, I am expanding my skill set by exploring **Machine Learning** 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 Here is a summary of the technologies I work with, categorized by area:
 
