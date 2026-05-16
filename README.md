@@ -33,9 +33,9 @@ At the same time, I am expanding my skill set by exploring **Machine Learning** 
 
 Here is a summary of the technologies I work with, categorized by area:
 
-(\_/)
-( •_•)
-/ >💻
+<p>(\_/)</p>
+<p>( •_•)</p>
+<p>/ >💻</p>
 
 #### **Frontend**
 <p align="left">
