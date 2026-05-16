@@ -6,6 +6,21 @@
 
 ---
 
+```
+┌──────────────────────────────────────────────────────┐
+|                                                      |
+|    _____                 _ _         ___ _____       |
+|    /  __ \               (_) |       / _ \_   _|     |
+|    | /  \/ __ _ _ __ ___  _| | ___  / /_\ \| |       |
+|    | |    / _` | '_ ` _ \| | |/ _ \ |  _  || |       |
+|    | \__/\ (_| | | | | | | | | (_) || | | || |       |
+|    \____/\__,_|_| |_| |_|_|_|\___(_)_| |_/\_/        |
+|                                                      |
+|                                                      |
+└──────────────────────────────────────────────────────┘
+ 
+```
+
 ### 👨‍💻 About Me
 
 My technical path is built on a solid foundation of software engineering. Currently, my true passion lies in **Web Application Development** because I deeply enjoy the design aspect and creating intuitive user experiences. I bring these designs to life using **React** on the frontend, supported by robust and efficient backends built with **Java (Spring Boot)**, **Node.js**, and **FastAPI**.
