@@ -23,7 +23,7 @@
 
 ### About Me
 
-My technical path is built on a solid foundation of software engineering. Currently, my true passion lies in **Web Application Development** because I deeply enjoy the design aspect and creating intuitive user experiences. I bring these designs to life using **React** on the frontend, supported by robust and efficient backends built with **Java (Spring Boot)**, **Node.js**, and **FastAPI**.
+My technical path is built on a solid foundation of software engineering. Currently, my true passion lies in **Web Application Development** because I deeply enjoy the design aspect and creating intuitive user experiences. I bring these designs to life using diverse modern technologies and frameworks to build robust, efficient, and scalable solutions.
 
 At the same time, I am expanding my skill set by exploring **Machine Learning** and I have a growing interest in developing **secure environments**. I focus on embedding **DevSecOps** practices, **secure coding**, and **CI/CD** pipelines to ensure software integrity from the ground up, backed by my **Cybersecurity** certifications from Cisco Networking Academy.
 
@@ -36,6 +36,7 @@ Here is a summary of the technologies I work with, categorized by area:
 #### **Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
